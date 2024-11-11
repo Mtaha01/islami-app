@@ -1,4 +1,4 @@
-# quran_app_c12_online_ast
+# Islami App
 
 A new Flutter project.
 
